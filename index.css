@@ -1,0 +1,117 @@
+header{ 
+ background-color:#7CFC00;
+ font-size: 40px;
+ font-style: italic;
+ float:left;
+ }
+header{
+	margin-left: 25px;
+	margin-bottom: 5px;
+	margin-left:-12px;
+    margin-top:-8px;
+    margin-right:-8px; 
+}
+#menu{  
+	background-color:#7CFC00;
+ width:100%;
+ float:left;
+ text-align: center;
+ margin:0px;
+ margin-top:10px;
+  }
+ li {
+	list-style-type: none;
+	font-size: 20px;
+	}
+.menu li {
+      float: left;
+      margin-bottom:10px;
+}
+.menu li a {
+	padding: 90px;
+    text-decoration: none;
+
+}
+h2{
+	color: black;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+	text-align:center;
+	margin-left: 10px;
+}
+h4{
+	font-style:oblique;
+	text-align: justify;
+	margin-left: 10px;
+}
+#privitanna{
+	align-content: center;
+	background-color:#7FFFD4;
+	width:99%;
+	float: left;
+	border:6px groove green;
+	border-radius: 40%;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 22px;
+}
+#rib{
+	align-content: center;
+	background-color:#7FFFD4;
+	width:99%;
+	float: left;
+	border:6px groove green;
+	border-radius: 10%;
+	margin-top: 15px;
+	text-align: justify;
+	font-size: 22px;
+}
+#video{
+	text-align: center;
+}
+#places{
+	align-content: center;
+	background-color:#7FFFD4;
+	width:99%;
+	float: left;
+	border:6px groove green;
+	border-radius: 40%;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 22px;
+}
+#place1{
+	align-content: center;
+	background-color:#7FFFD4;
+	width:99%;
+	float: left;
+	border:6px groove green;
+	border-radius: 10%;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 22px;
+}
+#place2{
+	align-content: center;
+	background-color:#7FFFD4;
+	width:99%;
+	float: left;
+	border:6px groove green;
+	border-radius: 10%;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 22px;
+}
+#place3{
+	align-content: center;
+	background-color:#7FFFD4;
+	width:99%;
+	float: left;
+	border:6px groove green;
+	border-radius: 10%;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 22px;
+}
